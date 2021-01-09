@@ -20,7 +20,22 @@ dev_dependencies:
     sdk: flutter
   integration_test:
     sdk: flutter
-
+  
 
 flutter:
   uses-material-design: true
+
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
+          weight: 700
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Regular.ttf
+        - asset: assets/fonts/Quicksand-Bold.ttf
+          weight: 700
+  
+  assets:
+   - assets/images/waiting.png
