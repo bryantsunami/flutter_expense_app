@@ -2,15 +2,38 @@
 
 A new Flutter project.
 
-## Getting Started
+## What was covered
 
-This project is a starting point for a Flutter application.
+- Composing Widgets
+- Styling / layout options
+- Basics of Theming
+- Moving State around and the eventual need for a better solution
 
-A few resources to get you started if this is your first Flutter project:
+## Some widgets used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- AppBar
+- Card
+- Column
+- Container
+- Expanded
+- FlatButton
+- Flexible
+- FloatingActionButton
+- FractionallySizedBox
+- Icon
+- IconButton
+- ListView (.builder)
+- MaterialApp
+- Padding
+- RaisedButton
+- Row
+- Scaffold
+- SizedBox
+- Stack
+- Text
+- TextField
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+and some built-ins we used:
+
+- DatePicker
+- ModalBottomSheet
