@@ -37,3 +37,8 @@ and some built-ins we used:
 
 - DatePicker
 - ModalBottomSheet
+
+special classes we used:
+
+- MediaQuery
+- Theme
